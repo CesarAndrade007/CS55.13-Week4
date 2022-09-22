@@ -1,0 +1,10 @@
+[
+  {
+    "name":"Employee 1",
+    "email":"Employee_1@website.com",
+    "phone": "XXX-XXX-XXXX",
+    "birthdate": "X-XX-XX",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ligula tellus, blandit eu gravida id, ullamcorper et diam. Proin at rhoncus orci. Cras ultricies leo leo, in tempus justo efficitur id. Curabitur non purus laoreet, maximus dui at, finibus risus. Maecenas aliquam pharetra lectus a volutpat. Vestibulum mollis mattis sem, ullamcorper facilisis lectus sagittis a.",
+    "id": "Employee 1"
+  },
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name":"Person 1",
+    "email":"person1@website.com",
+    "phone": "XXX-XXX-XXXX",
+    "birthdate": "X-XX-XX",
+    "id": 1
+  },
+  {
+    "name":"Person 2",
+    "email":"person2@website.com",
+    "phone": "XXX-XXX-XXXX",
+    "birthdate": "X-XX-XX",
+    "id": 2
+  },
+  {
+    "name":"Person 3",
+    "email":"person3@website.com",
+    "phone": "XXX-XXX-XXXX",
+    "birthdate": "X-XX-XX",
+    "id": 3
+  }
+]
